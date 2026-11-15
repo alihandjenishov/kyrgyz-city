@@ -1,0 +1,30 @@
+{
+  "version": "0.1.1",
+  "date": "2026-11-08",
+  "timezone": "Asia/Bishkek",
+  "counts": {
+    "vocabulary": 160,
+    "lessons": 18,
+    "locations": 10,
+    "dialogues": 10,
+    "quests": 10
+  },
+  "validation": {
+    "production_build": "passed",
+    "frontend_tests": 16,
+    "backend_tests": 15,
+    "live_http": "passed",
+    "browser_webgl": "not_verified",
+    "real_microphone": "not_verified",
+    "docker": "not_verified",
+    "windows_launcher": "not_verified",
+    "linux_launcher": "passed",
+    "legacy_windows_encoding": "passed_regression_test",
+    "python_launcher": "passed_live_http_test",
+    "browser_auto_open": "passed_with_test_opener"
+  },
+  "published": false,
+  "pronunciation_scoring": "not_available",
+  "native_speaker_audio": false,
+  "native_teacher_review": false
+}

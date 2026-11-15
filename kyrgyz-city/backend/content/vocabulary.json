@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "greetings-1",
+    "ky": "Саламатсызбы!",
+    "translations": {
+      "ru": "Здравствуйте!",
+      "en": "Hello!",
+      "ky": "Саламатсызбы!"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Саламатсызбы, эже!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-2",
+    "ky": "Салам!",
+    "translations": {
+      "ru": "Привет!",
+      "en": "Hi!",
+      "ky": "Салам!"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Салам, досум!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-3",
+    "ky": "Кутман таң!",
+    "translations": {
+      "ru": "Доброе утро!",
+      "en": "Good morning!",
+      "ky": "Кутман таң!"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Кутман таң, апа!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-4",
+    "ky": "Кутман кеч!",
+    "translations": {
+      "ru": "Добрый вечер!",
+      "en": "Good evening!",
+      "ky": "Кутман кеч!"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Кутман кеч, ата!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-5",
+    "ky": "Рахмат",
+    "translations": {
+      "ru": "Спасибо",
+      "en": "Thank you",
+      "ky": "Рахмат"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Чоң рахмат!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-6",
+    "ky": "Сураныч",
+    "translations": {
+      "ru": "Пожалуйста (при просьбе)",
+      "en": "Please",
+      "ky": "Сураныч"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Сураныч, жардам бериңиз.",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-7",
+    "ky": "Кечиресиз",
+    "translations": {
+      "ru": "Извините",
+      "en": "Excuse me",
+      "ky": "Кечиресиз"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Кечиресиз, бул кайсы көчө?",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-8",
+    "ky": "Кош болуңуз!",
+    "translations": {
+      "ru": "До свидания!",
+      "en": "Goodbye!",
+      "ky": "Кош болуңуз!"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Кош болуңуз, эже!",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-9",
+    "ky": "Кандайсыз?",
+    "translations": {
+      "ru": "Как вы?",
+      "en": "How are you?",
+      "ky": "Кандайсыз?"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Саламатсызбы! Кандайсыз?",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "greetings-10",
+    "ky": "Жакшы",
+    "translations": {
+      "ru": "Хорошо",
+      "en": "Good / well",
+      "ky": "Жакшы"
+    },
+    "category": "greetings",
+    "level": "A0",
+    "example": "Мен жакшымын.",
+    "context": {
+      "ru": "Приветствие",
+      "en": "Greetings",
+      "ky": "Саламдашуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-1",
+    "ky": "Атыңыз ким?",
+    "translations": {
+      "ru": "Как вас зовут?",
+      "en": "What is your name?",
+      "ky": "Атыңыз ким?"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Саламатсызбы! Атыңыз ким?",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-2",
+    "ky": "Менин атым…",
+    "translations": {
+      "ru": "Меня зовут…",
+      "en": "My name is…",
+      "ky": "Менин атым…"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Менин атым Айдана.",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-3",
+    "ky": "Мен",
+    "translations": {
+      "ru": "Я",
+      "en": "I",
+      "ky": "Мен"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Мен окуучумун.",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-4",
+    "ky": "Сиз",
+    "translations": {
+      "ru": "Вы",
+      "en": "You (polite)",
+      "ky": "Сиз"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Сиз мугалимсизби?",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-5",
+    "ky": "Дос",
+    "translations": {
+      "ru": "Друг",
+      "en": "Friend",
+      "ky": "Дос"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Бул менин досум.",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-6",
+    "ky": "Таанышканыма кубанычтамын",
+    "translations": {
+      "ru": "Рад знакомству",
+      "en": "Nice to meet you",
+      "ky": "Таанышканыма кубанычтамын"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Таанышканыма кубанычтамын!",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-7",
+    "ky": "Кайдансыз?",
+    "translations": {
+      "ru": "Откуда вы?",
+      "en": "Where are you from?",
+      "ky": "Кайдансыз?"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Сиз кайдансыз?",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "introduction-8",
+    "ky": "Кыргызстан",
+    "translations": {
+      "ru": "Кыргызстан",
+      "en": "Kyrgyzstan",
+      "ky": "Кыргызстан"
+    },
+    "category": "introduction",
+    "level": "A0",
+    "example": "Мен Кыргызстанданмын.",
+    "context": {
+      "ru": "Знакомство",
+      "en": "Introductions",
+      "ky": "Таанышуу"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-1",
+    "ky": "Бир",
+    "translations": {
+      "ru": "Один",
+      "en": "One",
+      "ky": "Бир"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Бир нан бериңизчи.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-2",
+    "ky": "Эки",
+    "translations": {
+      "ru": "Два",
+      "en": "Two",
+      "ky": "Эки"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Эки алма бериңизчи.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-3",
+    "ky": "Үч",
+    "translations": {
+      "ru": "Три",
+      "en": "Three",
+      "ky": "Үч"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Үч китеп бар.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-4",
+    "ky": "Төрт",
+    "translations": {
+      "ru": "Четыре",
+      "en": "Four",
+      "ky": "Төрт"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Төрт отургуч бар.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-5",
+    "ky": "Беш",
+    "translations": {
+      "ru": "Пять",
+      "en": "Five",
+      "ky": "Беш"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Беш сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-6",
+    "ky": "Алты",
+    "translations": {
+      "ru": "Шесть",
+      "en": "Six",
+      "ky": "Алты"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Алты бала келди.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-7",
+    "ky": "Жети",
+    "translations": {
+      "ru": "Семь",
+      "en": "Seven",
+      "ky": "Жети"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Бир жумада жети күн бар.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-8",
+    "ky": "Сегиз",
+    "translations": {
+      "ru": "Восемь",
+      "en": "Eight",
+      "ky": "Сегиз"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Сегиз дептер бар.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-9",
+    "ky": "Тогуз",
+    "translations": {
+      "ru": "Девять",
+      "en": "Nine",
+      "ky": "Тогуз"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Тогуз окуучу келди.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-10",
+    "ky": "Он",
+    "translations": {
+      "ru": "Десять",
+      "en": "Ten",
+      "ky": "Он"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Он сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-11",
+    "ky": "Жыйырма",
+    "translations": {
+      "ru": "Двадцать",
+      "en": "Twenty",
+      "ky": "Жыйырма"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Жыйырма сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-12",
+    "ky": "Жүз",
+    "translations": {
+      "ru": "Сто",
+      "en": "One hundred",
+      "ky": "Жүз"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Жүз сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-1",
+    "ky": "Кызыл",
+    "translations": {
+      "ru": "Красный",
+      "en": "Red",
+      "ky": "Кызыл"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Кызыл алма.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-2",
+    "ky": "Көк",
+    "translations": {
+      "ru": "Синий",
+      "en": "Blue",
+      "ky": "Көк"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Көк көйнөк.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-3",
+    "ky": "Жашыл",
+    "translations": {
+      "ru": "Зелёный",
+      "en": "Green",
+      "ky": "Жашыл"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Жашыл дарак.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-4",
+    "ky": "Сары",
+    "translations": {
+      "ru": "Жёлтый",
+      "en": "Yellow",
+      "ky": "Сары"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Сары гүл.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-5",
+    "ky": "Ак",
+    "translations": {
+      "ru": "Белый",
+      "en": "White",
+      "ky": "Ак"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Ак кагаз.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-6",
+    "ky": "Кара",
+    "translations": {
+      "ru": "Чёрный",
+      "en": "Black",
+      "ky": "Кара"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Кара калем.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-7",
+    "ky": "Күрөң",
+    "translations": {
+      "ru": "Коричневый",
+      "en": "Brown",
+      "ky": "Күрөң"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Күрөң эшик.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-8",
+    "ky": "Түс",
+    "translations": {
+      "ru": "Цвет",
+      "en": "Color",
+      "ky": "Түс"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Бул кандай түс?",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-1",
+    "ky": "Үй-бүлө",
+    "translations": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Менин үй-бүлөм чоң.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-2",
+    "ky": "Ата",
+    "translations": {
+      "ru": "Отец",
+      "en": "Father",
+      "ky": "Ата"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Атам үйдө.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-3",
+    "ky": "Апа",
+    "translations": {
+      "ru": "Мама",
+      "en": "Mother",
+      "ky": "Апа"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Апам мугалим.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-4",
+    "ky": "Чоң ата",
+    "translations": {
+      "ru": "Дедушка",
+      "en": "Grandfather",
+      "ky": "Чоң ата"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Чоң атам келди.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-5",
+    "ky": "Чоң эне",
+    "translations": {
+      "ru": "Бабушка",
+      "en": "Grandmother",
+      "ky": "Чоң эне"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Чоң энем үйдө.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-6",
+    "ky": "Ага",
+    "translations": {
+      "ru": "Старший брат",
+      "en": "Older brother",
+      "ky": "Ага"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Агам студент.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-7",
+    "ky": "Эже",
+    "translations": {
+      "ru": "Старшая сестра",
+      "en": "Older sister",
+      "ky": "Эже"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Эжем дарыгер.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "family-8",
+    "ky": "Бала",
+    "translations": {
+      "ru": "Ребёнок",
+      "en": "Child",
+      "ky": "Бала"
+    },
+    "category": "family",
+    "level": "A0",
+    "example": "Бала китеп окуп жатат.",
+    "context": {
+      "ru": "Семья",
+      "en": "Family",
+      "ky": "Үй-бүлө"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-1",
+    "ky": "Үй",
+    "translations": {
+      "ru": "Дом",
+      "en": "Home / house",
+      "ky": "Үй"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Бул менин үйүм.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-2",
+    "ky": "Эшик",
+    "translations": {
+      "ru": "Дверь",
+      "en": "Door",
+      "ky": "Эшик"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Эшикти ачыңызчы.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-3",
+    "ky": "Терезе",
+    "translations": {
+      "ru": "Окно",
+      "en": "Window",
+      "ky": "Терезе"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Терезе чоң.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-4",
+    "ky": "Үстөл",
+    "translations": {
+      "ru": "Стол",
+      "en": "Table",
+      "ky": "Үстөл"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Китеп үстөлдө.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-5",
+    "ky": "Отургуч",
+    "translations": {
+      "ru": "Стул",
+      "en": "Chair",
+      "ky": "Отургуч"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Отургучка отуруңуз.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-6",
+    "ky": "Керебет",
+    "translations": {
+      "ru": "Кровать",
+      "en": "Bed",
+      "ky": "Керебет"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Керебет бөлмөдө.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-7",
+    "ky": "Ашкана",
+    "translations": {
+      "ru": "Кухня",
+      "en": "Kitchen",
+      "ky": "Ашкана"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Апам ашканада.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-8",
+    "ky": "Бөлмө",
+    "translations": {
+      "ru": "Комната",
+      "en": "Room",
+      "ky": "Бөлмө"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Бул бөлмө жарык.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-9",
+    "ky": "Күзгү",
+    "translations": {
+      "ru": "Зеркало",
+      "en": "Mirror",
+      "ky": "Күзгү"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Күзгү дубалда.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "home-10",
+    "ky": "Сүлгү",
+    "translations": {
+      "ru": "Полотенце",
+      "en": "Towel",
+      "ky": "Сүлгү"
+    },
+    "category": "home",
+    "level": "A0",
+    "example": "Бул таза сүлгү.",
+    "context": {
+      "ru": "Мой дом",
+      "en": "My home",
+      "ky": "Менин үйүм"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-1",
+    "ky": "Мектеп",
+    "translations": {
+      "ru": "Школа",
+      "en": "School",
+      "ky": "Мектеп"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Мен мектепке барам.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-2",
+    "ky": "Мугалим",
+    "translations": {
+      "ru": "Учитель",
+      "en": "Teacher",
+      "ky": "Мугалим"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Мугалим сабак өтүп жатат.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-3",
+    "ky": "Окуучу",
+    "translations": {
+      "ru": "Ученик",
+      "en": "Pupil",
+      "ky": "Окуучу"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Мен окуучумун.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-4",
+    "ky": "Китеп",
+    "translations": {
+      "ru": "Книга",
+      "en": "Book",
+      "ky": "Китеп"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Бул кызыктуу китеп.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-5",
+    "ky": "Дептер",
+    "translations": {
+      "ru": "Тетрадь",
+      "en": "Notebook",
+      "ky": "Дептер"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Дептерим бар.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-6",
+    "ky": "Калем",
+    "translations": {
+      "ru": "Ручка",
+      "en": "Pen",
+      "ky": "Калем"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Калем бериңизчи.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-7",
+    "ky": "Сабак",
+    "translations": {
+      "ru": "Урок",
+      "en": "Lesson",
+      "ky": "Сабак"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Сабак башталды.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-8",
+    "ky": "Суроо",
+    "translations": {
+      "ru": "Вопрос",
+      "en": "Question",
+      "ky": "Суроо"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Менде суроо бар.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-9",
+    "ky": "Жооп",
+    "translations": {
+      "ru": "Ответ",
+      "en": "Answer",
+      "ky": "Жооп"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Жооп туура.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "school-10",
+    "ky": "Класс",
+    "translations": {
+      "ru": "Класс",
+      "en": "Classroom",
+      "ky": "Класс"
+    },
+    "category": "school",
+    "level": "A1",
+    "example": "Биз класстабыз.",
+    "context": {
+      "ru": "В школе",
+      "en": "At school",
+      "ky": "Мектепте"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-1",
+    "ky": "Базар",
+    "translations": {
+      "ru": "Базар",
+      "en": "Bazaar",
+      "ky": "Базар"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Базарга барам.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-2",
+    "ky": "Дүкөн",
+    "translations": {
+      "ru": "Магазин",
+      "en": "Shop",
+      "ky": "Дүкөн"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Дүкөн ачык.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-3",
+    "ky": "Акча",
+    "translations": {
+      "ru": "Деньги",
+      "en": "Money",
+      "ky": "Акча"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Менде акча бар.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-4",
+    "ky": "Баа",
+    "translations": {
+      "ru": "Цена",
+      "en": "Price",
+      "ky": "Баа"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Баасы канча?",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-5",
+    "ky": "Канча турат?",
+    "translations": {
+      "ru": "Сколько стоит?",
+      "en": "How much is it?",
+      "ky": "Канча турат?"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Бул канча турат?",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-6",
+    "ky": "Кымбат",
+    "translations": {
+      "ru": "Дорого",
+      "en": "Expensive",
+      "ky": "Кымбат"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Бул кымбат экен.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-7",
+    "ky": "Арзан",
+    "translations": {
+      "ru": "Дёшево",
+      "en": "Cheap / inexpensive",
+      "ky": "Арзан"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Бул арзан экен.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-8",
+    "ky": "Сом",
+    "translations": {
+      "ru": "Сом",
+      "en": "Som",
+      "ky": "Сом"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Элүү сом.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-9",
+    "ky": "Бериңизчи",
+    "translations": {
+      "ru": "Дайте, пожалуйста",
+      "en": "Please give me",
+      "ky": "Бериңизчи"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Бир нан бериңизчи.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "shopping-10",
+    "ky": "Сатып алуу",
+    "translations": {
+      "ru": "Покупать",
+      "en": "To buy",
+      "ky": "Сатып алуу"
+    },
+    "category": "shopping",
+    "level": "A1",
+    "example": "Мен нан сатып алам.",
+    "context": {
+      "ru": "Покупки на базаре",
+      "en": "At the bazaar",
+      "ky": "Базарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-1",
+    "ky": "Нан",
+    "translations": {
+      "ru": "Хлеб",
+      "en": "Bread",
+      "ky": "Нан"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Нан жаңы.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-2",
+    "ky": "Суу",
+    "translations": {
+      "ru": "Вода",
+      "en": "Water",
+      "ky": "Суу"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Суу бериңизчи.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-3",
+    "ky": "Сүт",
+    "translations": {
+      "ru": "Молоко",
+      "en": "Milk",
+      "ky": "Сүт"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Сүт ичем.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-4",
+    "ky": "Чай",
+    "translations": {
+      "ru": "Чай",
+      "en": "Tea",
+      "ky": "Чай"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Чай ичесизби?",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-5",
+    "ky": "Алма",
+    "translations": {
+      "ru": "Яблоко",
+      "en": "Apple",
+      "ky": "Алма"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Алма таттуу.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-6",
+    "ky": "Эт",
+    "translations": {
+      "ru": "Мясо",
+      "en": "Meat",
+      "ky": "Эт"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Эт бышты.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-7",
+    "ky": "Шорпо",
+    "translations": {
+      "ru": "Суп",
+      "en": "Soup",
+      "ky": "Шорпо"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Шорпо ысык.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-8",
+    "ky": "Боорсок",
+    "translations": {
+      "ru": "Боорсок",
+      "en": "Boorsok (fried dough)",
+      "ky": "Боорсок"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Боорсок жедим.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-9",
+    "ky": "Тамак",
+    "translations": {
+      "ru": "Еда",
+      "en": "Food / meal",
+      "ky": "Тамак"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Тамак даяр.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "food-10",
+    "ky": "Даамдуу",
+    "translations": {
+      "ru": "Вкусный",
+      "en": "Delicious",
+      "ky": "Даамдуу"
+    },
+    "category": "food",
+    "level": "A1",
+    "example": "Тамак даамдуу экен.",
+    "context": {
+      "ru": "Еда и кафе",
+      "en": "Food and café",
+      "ky": "Тамак-аш"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "cafe",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-1",
+    "ky": "Шаар",
+    "translations": {
+      "ru": "Город",
+      "en": "City",
+      "ky": "Шаар"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Бишкек — чоң шаар.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-2",
+    "ky": "Көчө",
+    "translations": {
+      "ru": "Улица",
+      "en": "Street",
+      "ky": "Көчө"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Бул көчө кең.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-3",
+    "ky": "Жол",
+    "translations": {
+      "ru": "Дорога",
+      "en": "Road",
+      "ky": "Жол"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Жолдон этият өтүңүз.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-4",
+    "ky": "Оң",
+    "translations": {
+      "ru": "Правый",
+      "en": "Right",
+      "ky": "Оң"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Оң жакка бурулуңуз.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-5",
+    "ky": "Сол",
+    "translations": {
+      "ru": "Левый",
+      "en": "Left",
+      "ky": "Сол"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Сол жакка бурулуңуз.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-6",
+    "ky": "Түз",
+    "translations": {
+      "ru": "Прямо",
+      "en": "Straight",
+      "ky": "Түз"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Түз жүрүңүз.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-7",
+    "ky": "Жакын",
+    "translations": {
+      "ru": "Близко",
+      "en": "Near",
+      "ky": "Жакын"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Мектеп жакын.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-8",
+    "ky": "Алыс",
+    "translations": {
+      "ru": "Далеко",
+      "en": "Far",
+      "ky": "Алыс"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Базар алыс.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-9",
+    "ky": "Кайда?",
+    "translations": {
+      "ru": "Где?",
+      "en": "Where?",
+      "ky": "Кайда?"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Китепкана кайда?",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "city-10",
+    "ky": "Китепкана",
+    "translations": {
+      "ru": "Библиотека",
+      "en": "Library",
+      "ky": "Китепкана"
+    },
+    "category": "city",
+    "level": "A1",
+    "example": "Мен китепканага барам.",
+    "context": {
+      "ru": "Ориентируемся в городе",
+      "en": "Around the city",
+      "ky": "Шаарда"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-1",
+    "ky": "Автобус",
+    "translations": {
+      "ru": "Автобус",
+      "en": "Bus",
+      "ky": "Автобус"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Автобус келди.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-2",
+    "ky": "Аялдама",
+    "translations": {
+      "ru": "Остановка",
+      "en": "Bus stop",
+      "ky": "Аялдама"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Аялдама кайда?",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-3",
+    "ky": "Унаа",
+    "translations": {
+      "ru": "Машина / транспорт",
+      "en": "Car / vehicle",
+      "ky": "Унаа"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Унаа токтоду.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-4",
+    "ky": "Билет",
+    "translations": {
+      "ru": "Билет",
+      "en": "Ticket",
+      "ky": "Билет"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Билет алдым.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-5",
+    "ky": "Айдоочу",
+    "translations": {
+      "ru": "Водитель",
+      "en": "Driver",
+      "ky": "Айдоочу"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Айдоочу күтүп жатат.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-6",
+    "ky": "Жүргүнчү",
+    "translations": {
+      "ru": "Пассажир",
+      "en": "Passenger",
+      "ky": "Жүргүнчү"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Жүргүнчүлөр түштү.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-7",
+    "ky": "Токтоңузчу",
+    "translations": {
+      "ru": "Остановитесь, пожалуйста",
+      "en": "Please stop",
+      "ky": "Токтоңузчу"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Бул жерден токтоңузчу.",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "transport-8",
+    "ky": "Кеттик!",
+    "translations": {
+      "ru": "Поехали!",
+      "en": "Let’s go!",
+      "ky": "Кеттик!"
+    },
+    "category": "transport",
+    "level": "A1",
+    "example": "Даярсыңбы? Кеттик!",
+    "context": {
+      "ru": "Транспорт",
+      "en": "Transport",
+      "ky": "Унаа"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bus",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-1",
+    "ky": "Оорукана",
+    "translations": {
+      "ru": "Больница",
+      "en": "Hospital",
+      "ky": "Оорукана"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Оорукана жакын.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-2",
+    "ky": "Дарыгер",
+    "translations": {
+      "ru": "Врач",
+      "en": "Doctor",
+      "ky": "Дарыгер"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Дарыгерге барам.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-3",
+    "ky": "Дары",
+    "translations": {
+      "ru": "Лекарство",
+      "en": "Medicine",
+      "ky": "Дары"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Дарыны убагында ичиңиз.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-4",
+    "ky": "Баш",
+    "translations": {
+      "ru": "Голова",
+      "en": "Head",
+      "ky": "Баш"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Башым ооруп жатат.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-5",
+    "ky": "Кол",
+    "translations": {
+      "ru": "Рука",
+      "en": "Hand / arm",
+      "ky": "Кол"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Колум ооруп жатат.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-6",
+    "ky": "Ооруп жатат",
+    "translations": {
+      "ru": "Болит",
+      "en": "Hurts",
+      "ky": "Ооруп жатат"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Тишим ооруп жатат.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-7",
+    "ky": "Жардам",
+    "translations": {
+      "ru": "Помощь",
+      "en": "Help",
+      "ky": "Жардам"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Жардам керек.",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "health-8",
+    "ky": "Дене табы",
+    "translations": {
+      "ru": "Температура тела",
+      "en": "Body temperature",
+      "ky": "Дене табы"
+    },
+    "category": "health",
+    "level": "A1",
+    "example": "Дене табыңыз кандай?",
+    "context": {
+      "ru": "У врача",
+      "en": "At the doctor",
+      "ky": "Дарыгерде"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "clinic",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-1",
+    "ky": "Аба ырайы",
+    "translations": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Аба ырайы жакшы.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-2",
+    "ky": "Күн",
+    "translations": {
+      "ru": "Солнце / день",
+      "en": "Sun / day",
+      "ky": "Күн"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Күн ачык.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-3",
+    "ky": "Жамгыр",
+    "translations": {
+      "ru": "Дождь",
+      "en": "Rain",
+      "ky": "Жамгыр"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Жамгыр жаап жатат.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-4",
+    "ky": "Кар",
+    "translations": {
+      "ru": "Снег",
+      "en": "Snow",
+      "ky": "Кар"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Кар жаап жатат.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-5",
+    "ky": "Шамал",
+    "translations": {
+      "ru": "Ветер",
+      "en": "Wind",
+      "ky": "Шамал"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Шамал болуп жатат.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-6",
+    "ky": "Ысык",
+    "translations": {
+      "ru": "Жарко / горячий",
+      "en": "Hot",
+      "ky": "Ысык"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Бүгүн ысык.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-7",
+    "ky": "Суук",
+    "translations": {
+      "ru": "Холодно / холодный",
+      "en": "Cold",
+      "ky": "Суук"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Бүгүн суук.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "weather-8",
+    "ky": "Булут",
+    "translations": {
+      "ru": "Облако",
+      "en": "Cloud",
+      "ky": "Булут"
+    },
+    "category": "weather",
+    "level": "A1",
+    "example": "Асманда булут бар.",
+    "context": {
+      "ru": "Погода",
+      "en": "Weather",
+      "ky": "Аба ырайы"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-1",
+    "ky": "Бүгүн",
+    "translations": {
+      "ru": "Сегодня",
+      "en": "Today",
+      "ky": "Бүгүн"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Бүгүн дүйшөмбү.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-2",
+    "ky": "Эртең",
+    "translations": {
+      "ru": "Завтра",
+      "en": "Tomorrow",
+      "ky": "Эртең"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Эртең келем.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-3",
+    "ky": "Кечээ",
+    "translations": {
+      "ru": "Вчера",
+      "en": "Yesterday",
+      "ky": "Кечээ"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Кечээ бардым.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-4",
+    "ky": "Саат",
+    "translations": {
+      "ru": "Часы / час",
+      "en": "Clock / hour",
+      "ky": "Саат"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Саат канча болду?",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-5",
+    "ky": "Жума",
+    "translations": {
+      "ru": "Неделя / пятница",
+      "en": "Week / Friday",
+      "ky": "Жума"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Бир жумада жети күн бар.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-6",
+    "ky": "Дүйшөмбү",
+    "translations": {
+      "ru": "Понедельник",
+      "en": "Monday",
+      "ky": "Дүйшөмбү"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Бүгүн дүйшөмбү.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-7",
+    "ky": "Шейшемби",
+    "translations": {
+      "ru": "Вторник",
+      "en": "Tuesday",
+      "ky": "Шейшемби"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Эртең шейшемби.",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "time-8",
+    "ky": "Убакыт",
+    "translations": {
+      "ru": "Время",
+      "en": "Time",
+      "ky": "Убакыт"
+    },
+    "category": "time",
+    "level": "A1",
+    "example": "Убактыңыз барбы?",
+    "context": {
+      "ru": "Время и дни",
+      "en": "Time and days",
+      "ky": "Убакыт"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "bank",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-1",
+    "ky": "Мейманкана",
+    "translations": {
+      "ru": "Гостиница",
+      "en": "Hotel",
+      "ky": "Мейманкана"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Мейманкана кайда?",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-2",
+    "ky": "Аэропорт",
+    "translations": {
+      "ru": "Аэропорт",
+      "en": "Airport",
+      "ky": "Аэропорт"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Аэропортко барам.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-3",
+    "ky": "Учкуч",
+    "translations": {
+      "ru": "Пилот",
+      "en": "Pilot",
+      "ky": "Учкуч"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Учкуч даяр.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-4",
+    "ky": "Учак",
+    "translations": {
+      "ru": "Самолёт",
+      "en": "Airplane",
+      "ky": "Учак"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Учак учту.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-5",
+    "ky": "Ачкыч",
+    "translations": {
+      "ru": "Ключ",
+      "en": "Key",
+      "ky": "Ачкыч"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Ачкыч бериңизчи.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-6",
+    "ky": "Паспорт",
+    "translations": {
+      "ru": "Паспорт",
+      "en": "Passport",
+      "ky": "Паспорт"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Паспортум бар.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-7",
+    "ky": "Саякат",
+    "translations": {
+      "ru": "Путешествие",
+      "en": "Journey",
+      "ky": "Саякат"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Саякат кызыктуу болду.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "travel-8",
+    "ky": "Конок",
+    "translations": {
+      "ru": "Гость",
+      "en": "Guest",
+      "ky": "Конок"
+    },
+    "category": "travel",
+    "level": "A1",
+    "example": "Конок келди.",
+    "context": {
+      "ru": "В гостинице",
+      "en": "At the hotel",
+      "ky": "Мейманканада"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "hotel",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-1",
+    "ky": "Баруу",
+    "translations": {
+      "ru": "Идти",
+      "en": "To go",
+      "ky": "Баруу"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Мен мектепке барам.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-2",
+    "ky": "Келүү",
+    "translations": {
+      "ru": "Приходить",
+      "en": "To come",
+      "ky": "Келүү"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Үйгө келем.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-3",
+    "ky": "Окуу",
+    "translations": {
+      "ru": "Читать / учиться",
+      "en": "To read / study",
+      "ky": "Окуу"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Китеп окуйм.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-4",
+    "ky": "Жазуу",
+    "translations": {
+      "ru": "Писать",
+      "en": "To write",
+      "ky": "Жазуу"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Кат жазам.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-5",
+    "ky": "Ичүү",
+    "translations": {
+      "ru": "Пить",
+      "en": "To drink",
+      "ky": "Ичүү"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Суу ичем.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-6",
+    "ky": "Жеш",
+    "translations": {
+      "ru": "Есть (принимать пищу)",
+      "en": "To eat",
+      "ky": "Жеш"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Нан жейм.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-7",
+    "ky": "Сүйлөө",
+    "translations": {
+      "ru": "Говорить",
+      "en": "To speak",
+      "ky": "Сүйлөө"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Кыргызча сүйлөйм.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "actions-8",
+    "ky": "Угуу",
+    "translations": {
+      "ru": "Слушать",
+      "en": "To listen",
+      "ky": "Угуу"
+    },
+    "category": "actions",
+    "level": "A1",
+    "example": "Музыка угам.",
+    "context": {
+      "ru": "Каждый день",
+      "en": "Everyday actions",
+      "ky": "Күнүмдүк иштер"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "home",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-1",
+    "ky": "Бул",
+    "translations": {
+      "ru": "Это",
+      "en": "This",
+      "ky": "Бул"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Бул китеп.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-2",
+    "ky": "Бар",
+    "translations": {
+      "ru": "Есть / имеется",
+      "en": "There is / have",
+      "ky": "Бар"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Менде китеп бар.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-3",
+    "ky": "Жок",
+    "translations": {
+      "ru": "Нет / отсутствует",
+      "en": "No / there is not",
+      "ky": "Жок"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Менде калем жок.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-4",
+    "ky": "Ооба",
+    "translations": {
+      "ru": "Да",
+      "en": "Yes",
+      "ky": "Ооба"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Ооба, түшүндүм.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-5",
+    "ky": "Эмне?",
+    "translations": {
+      "ru": "Что?",
+      "en": "What?",
+      "ky": "Эмне?"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Бул эмне?",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-6",
+    "ky": "Ким?",
+    "translations": {
+      "ru": "Кто?",
+      "en": "Who?",
+      "ky": "Ким?"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Бул ким?",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-7",
+    "ky": "Түшүндүм",
+    "translations": {
+      "ru": "Я понял(а)",
+      "en": "I understood",
+      "ky": "Түшүндүм"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Рахмат, түшүндүм.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "grammar-8",
+    "ky": "Түшүнгөн жокмун",
+    "translations": {
+      "ru": "Я не понял(а)",
+      "en": "I did not understand",
+      "ky": "Түшүнгөн жокмун"
+    },
+    "category": "grammar",
+    "level": "A0",
+    "example": "Кечиресиз, түшүнгөн жокмун.",
+    "context": {
+      "ru": "Первые предложения",
+      "en": "First sentences",
+      "ky": "Алгачкы сүйлөмдөр"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "school",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-1",
+    "ky": "Өрүк",
+    "translations": {
+      "ru": "Абрикос",
+      "en": "Apricot",
+      "ky": "Өрүк"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Өрүк бышты.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-2",
+    "ky": "Көз",
+    "translations": {
+      "ru": "Глаз",
+      "en": "Eye",
+      "ky": "Көз"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Көзүм ооруп жатат.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-3",
+    "ky": "Үн",
+    "translations": {
+      "ru": "Голос / звук",
+      "en": "Voice / sound",
+      "ky": "Үн"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Үнүңүз жакшы угулат.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-4",
+    "ky": "Үчүн",
+    "translations": {
+      "ru": "Для / ради",
+      "en": "For",
+      "ky": "Үчүн"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Бул сиз үчүн.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-5",
+    "ky": "Таң",
+    "translations": {
+      "ru": "Рассвет",
+      "en": "Dawn",
+      "ky": "Таң"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Таң атты.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-6",
+    "ky": "Жаңы",
+    "translations": {
+      "ru": "Новый",
+      "en": "New",
+      "ky": "Жаңы"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Бул жаңы китеп.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-7",
+    "ky": "Чоң",
+    "translations": {
+      "ru": "Большой",
+      "en": "Big",
+      "ky": "Чоң"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Бул чоң үй.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  },
+  {
+    "id": "sounds-8",
+    "ky": "Көңүл",
+    "translations": {
+      "ru": "Настроение / внимание",
+      "en": "Mood / attention",
+      "ky": "Көңүл"
+    },
+    "category": "sounds",
+    "level": "A0",
+    "example": "Көңүл буруңуз.",
+    "context": {
+      "ru": "Звуки Ө, Ү, Ң",
+      "en": "Sounds Ө, Ү, Ң",
+      "ky": "Ө, Ү, Ң тыбыштары"
+    },
+    "grammar": null,
+    "audio": null,
+    "location": "library",
+    "review_status": "draft"
+  }
+]

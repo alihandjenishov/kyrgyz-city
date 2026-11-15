@@ -1,0 +1,842 @@
+[
+  {
+    "id": "home",
+    "location": "home",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Менин атым Айжан.",
+        "translation": {
+          "ru": "Здравствуйте! Меня зовут Айжан.",
+          "en": "Hello! My name is Aizhan.",
+          "ky": "Саламатсызбы! Менин атым Айжан."
+        },
+        "options": [
+          {
+            "text": "Саламатсызбы!",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Кош болуңуз!",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "При знакомстве сначала здороваются.",
+          "en": "Start a conversation with a greeting.",
+          "ky": "Адегенде саламдашабыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Атыңыз ким?",
+        "translation": {
+          "ru": "Как вас зовут?",
+          "en": "What is your name?",
+          "ky": "Атыңыз ким?"
+        },
+        "options": [
+          {
+            "text": "Менин атым {name}.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Менде суу бар.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "Назовите своё имя: «Менин атым…».",
+          "en": "Introduce yourself with “Менин атым…”.",
+          "ky": "«Менин атым…» деп жооп бериңиз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Таанышканыма кубанычтамын!",
+        "translation": {
+          "ru": "Рада знакомству!",
+          "en": "Nice to meet you!",
+          "ky": "Таанышканыма кубанычтамын!"
+        },
+        "options": [
+          {
+            "text": "Мен дагы! Рахмат.",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Канча турат?",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "«Мен дагы» означает «Я тоже».",
+          "en": "“Мен дагы” means “Me too”.",
+          "ky": "«Мен дагы» деп жооп берсеңиз болот."
+        }
+      }
+    ]
+  },
+  {
+    "id": "market",
+    "location": "market",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Эмне аласыз?",
+        "translation": {
+          "ru": "Здравствуйте! Что возьмёте?",
+          "en": "Hello! What would you like?",
+          "ky": "Саламатсызбы! Эмне аласыз?"
+        },
+        "options": [
+          {
+            "text": "Суу бериңизчи.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Мен мектепке барам.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Бериңизчи» — вежливая просьба дать что-либо.",
+          "en": "“Бериңизчи” is a polite request for something.",
+          "ky": "«Бериңизчи» — сылык өтүнүч."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Мына суу.",
+        "translation": {
+          "ru": "Вот вода.",
+          "en": "Here is the water.",
+          "ky": "Мына суу."
+        },
+        "options": [
+          {
+            "text": "Канча турат?",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Атыңыз ким?",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "Теперь спросите цену: «Канча турат?»",
+          "en": "Ask the price with “Канча турат?”",
+          "ky": "Баасын «Канча турат?» деп сураңыз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Жыйырма сом.",
+        "translation": {
+          "ru": "Двадцать сомов.",
+          "en": "Twenty som.",
+          "ky": "Жыйырма сом."
+        },
+        "options": [
+          {
+            "text": "Рахмат!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Кайда?",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Завершите покупку благодарностью.",
+          "en": "Thank the seller to finish the purchase.",
+          "ky": "Сатуучуга ыраазычылык билдириңиз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "cafe",
+    "location": "cafe",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Эмне ичесиз?",
+        "translation": {
+          "ru": "Здравствуйте! Что будете пить?",
+          "en": "Hello! What would you like to drink?",
+          "ky": "Саламатсызбы! Эмне ичесиз?"
+        },
+        "options": [
+          {
+            "text": "Чай бериңизчи.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Бул китеп.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "Чай — напиток; попросите его вежливо.",
+          "en": "Чай means tea. Ask for it politely.",
+          "ky": "Чайды сылык сураңыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Тамак аласызбы?",
+        "translation": {
+          "ru": "Будете что-нибудь есть?",
+          "en": "Would you like something to eat?",
+          "ky": "Тамак аласызбы?"
+        },
+        "options": [
+          {
+            "text": "Ооба, боорсок бериңизчи.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Мен окуучумун.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "Боорсок — уместный заказ к чаю.",
+          "en": "Boorsok is a suitable food order with tea.",
+          "ky": "Чайга боорсок заказ берсеңиз болот."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Тамагыңыз даяр. Тамагыңыз таттуу болсун!",
+        "translation": {
+          "ru": "Ваш заказ готов. Приятного аппетита!",
+          "en": "Your order is ready. Enjoy your meal!",
+          "ky": "Тамагыңыз даяр. Тамагыңыз таттуу болсун!"
+        },
+        "options": [
+          {
+            "text": "Рахмат!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Бул кайсы көчө?",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Поблагодарите за пожелание.",
+          "en": "Thank the server for the kind wish.",
+          "ky": "Жакшы каалоого рахмат айтыңыз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "school",
+    "location": "school",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Сиз окуучусузбу?",
+        "translation": {
+          "ru": "Здравствуйте! Вы ученик?",
+          "en": "Hello! Are you a pupil?",
+          "ky": "Саламатсызбы! Сиз окуучусузбу?"
+        },
+        "options": [
+          {
+            "text": "Ооба, мен окуучумун.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Бул канча турат?",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Окуучумун» означает «Я ученик».",
+          "en": "“Окуучумун” means “I am a pupil”.",
+          "ky": "«Окуучумун» деп жооп бериңиз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Сизде китеп барбы?",
+        "translation": {
+          "ru": "У вас есть книга?",
+          "en": "Do you have a book?",
+          "ky": "Сизде китеп барбы?"
+        },
+        "options": [
+          {
+            "text": "Ооба, менде китеп бар.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Эртең жамгыр.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "«Менде … бар» — «У меня есть …».",
+          "en": "“Менде … бар” means “I have …”.",
+          "ky": "«Менде … бар» деп жооп бериңиз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Сурооңуз барбы?",
+        "translation": {
+          "ru": "У вас есть вопрос?",
+          "en": "Do you have a question?",
+          "ky": "Сурооңуз барбы?"
+        },
+        "options": [
+          {
+            "text": "Жок, рахмат. Түшүндүм.",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Суу кымбат.",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Ответьте на вопрос и сообщите, что поняли.",
+          "en": "Answer the question and say you understood.",
+          "ky": "Түшүнгөнүңүздү айтыңыз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "clinic",
+    "location": "clinic",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Эмне болду?",
+        "translation": {
+          "ru": "Здравствуйте! Что случилось?",
+          "en": "Hello! What happened?",
+          "ky": "Саламатсызбы! Эмне болду?"
+        },
+        "options": [
+          {
+            "text": "Башым ооруп жатат.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Нан бериңизчи.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Башым» — «моя голова»; опишите симптом.",
+          "en": "“Башым” means “my head”; describe your symptom.",
+          "ky": "Белгиңизди айтыңыз: «Башым ооруп жатат»."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Качантан бери?",
+        "translation": {
+          "ru": "С каких пор?",
+          "en": "Since when?",
+          "ky": "Качантан бери?"
+        },
+        "options": [
+          {
+            "text": "Бүгүн эртең мененден бери.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Менин атым Бакыт.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "Ответьте о времени: «С сегодняшнего утра».",
+          "en": "Give a time: “Since this morning”.",
+          "ky": "Убакытты айтыңыз: «Бүгүн эртең мененден бери»."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Келиңиз, текшерип көрөлү.",
+        "translation": {
+          "ru": "Давайте вас осмотрим.",
+          "en": "Let’s examine you.",
+          "ky": "Келиңиз, текшерип көрөлү."
+        },
+        "options": [
+          {
+            "text": "Макул, рахмат.",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Кош бол, автобус!",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "«Макул» означает «Хорошо / согласен».",
+          "en": "“Макул” means “Okay / agreed”.",
+          "ky": "«Макул» деп макулдугуңузду билдириңиз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "library",
+    "location": "library",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Кандай китеп издеп жатасыз?",
+        "translation": {
+          "ru": "Какую книгу вы ищете?",
+          "en": "What kind of book are you looking for?",
+          "ky": "Кандай китеп издеп жатасыз?"
+        },
+        "options": [
+          {
+            "text": "Кыргыз тили боюнча китеп керек.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Сүт ичем.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "Попросите книгу по кыргызскому языку.",
+          "en": "Ask for a book about the Kyrgyz language.",
+          "ky": "Кыргыз тили боюнча китеп сураңыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Мына, бул китепти караңыз.",
+        "translation": {
+          "ru": "Вот, посмотрите эту книгу.",
+          "en": "Here, take a look at this book.",
+          "ky": "Мына, бул китепти караңыз."
+        },
+        "options": [
+          {
+            "text": "Бул китепти алсам болобу?",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Күн ысык.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "«Алсам болобу?» — вежливое «Можно взять?».",
+          "en": "“Алсам болобу?” politely asks “May I take it?”.",
+          "ky": "«Алсам болобу?» — сылык суроо."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Ооба, болот.",
+        "translation": {
+          "ru": "Да, можно.",
+          "en": "Yes, you may.",
+          "ky": "Ооба, болот."
+        },
+        "options": [
+          {
+            "text": "Чоң рахмат!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Сол жакка.",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Поблагодарите за помощь.",
+          "en": "Thank the librarian for helping.",
+          "ky": "Жардамы үчүн рахмат айтыңыз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "park",
+    "location": "park",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Бүгүн аба ырайы жакшы экен!",
+        "translation": {
+          "ru": "Сегодня хорошая погода!",
+          "en": "The weather is lovely today!",
+          "ky": "Бүгүн аба ырайы жакшы экен!"
+        },
+        "options": [
+          {
+            "text": "Ооба, күн ачык.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Бул калем.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Күн ачык» — «Ясно / солнечно».",
+          "en": "“Күн ачык” means “It is sunny / clear”.",
+          "ky": "«Күн ачык» деп аба ырайын сүрөттөңүз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Бул жер сизге жагабы?",
+        "translation": {
+          "ru": "Вам нравится это место?",
+          "en": "Do you like this place?",
+          "ky": "Бул жер сизге жагабы?"
+        },
+        "options": [
+          {
+            "text": "Ооба, парк кооз экен.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Башым ооруйт.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "«Кооз» означает «красивый».",
+          "en": "“Кооз” means “beautiful”.",
+          "ky": "«Кооз» деген сөздү колдонуңуз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Жакшы эс алыңыз!",
+        "translation": {
+          "ru": "Хорошего отдыха!",
+          "en": "Enjoy your rest!",
+          "ky": "Жакшы эс алыңыз!"
+        },
+        "options": [
+          {
+            "text": "Рахмат, сиз дагы!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Канча сом?",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Ответное пожелание: «Спасибо, и вам!».",
+          "en": "Return the wish: “Thank you, you too!”.",
+          "ky": "«Рахмат, сиз дагы!» деп жооп бериңиз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "bus",
+    "location": "bus",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Кайда барасыз?",
+        "translation": {
+          "ru": "Здравствуйте! Куда едете?",
+          "en": "Hello! Where are you going?",
+          "ky": "Саламатсызбы! Кайда барасыз?"
+        },
+        "options": [
+          {
+            "text": "Мектепке барам.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Менде алма бар.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Мектепке» означает «в школу».",
+          "en": "“Мектепке” means “to school”.",
+          "ky": "«Мектепке барам» деп багытыңызды айтыңыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Бул автобус мектепке барат.",
+        "translation": {
+          "ru": "Этот автобус идёт к школе.",
+          "en": "This bus goes to the school.",
+          "ky": "Бул автобус мектепке барат."
+        },
+        "options": [
+          {
+            "text": "Жол кире канча?",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Атыңыз ким?",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "«Жол кире» — стоимость проезда.",
+          "en": "“Жол кире” means “fare”.",
+          "ky": "Жол киренин баасын сураңыз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Жыйырма сом. Отуруңуз.",
+        "translation": {
+          "ru": "Двадцать сомов. Садитесь.",
+          "en": "Twenty som. Please get in.",
+          "ky": "Жыйырма сом. Отуруңуз."
+        },
+        "options": [
+          {
+            "text": "Рахмат!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Мен китеп окуйм.",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Поблагодарите водителя.",
+          "en": "Thank the driver.",
+          "ky": "Айдоочуга рахмат айтыңыз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "bank",
+    "location": "bank",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Саламатсызбы! Кандай жардам керек?",
+        "translation": {
+          "ru": "Здравствуйте! Чем помочь?",
+          "en": "Hello! How can I help?",
+          "ky": "Саламатсызбы! Кандай жардам керек?"
+        },
+        "options": [
+          {
+            "text": "Акча алмаштыргым келет.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Бир чай бериңизчи.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Акча алмаштыруу» — обмен денег.",
+          "en": "“Акча алмаштыруу” means “to exchange money”.",
+          "ky": "Акча алмаштырууну сураңыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Паспортуңуз барбы?",
+        "translation": {
+          "ru": "У вас есть паспорт?",
+          "en": "Do you have your passport?",
+          "ky": "Паспортуңуз барбы?"
+        },
+        "options": [
+          {
+            "text": "Ооба, мына паспортум.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Күн суук.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "Ответьте о документе. Настоящие данные не нужны.",
+          "en": "Answer about the document. No real details are needed.",
+          "ky": "Документ тууралуу жооп бериңиз. Чыныгы маалымат керек эмес."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Күтө туруңузчу.",
+        "translation": {
+          "ru": "Подождите, пожалуйста.",
+          "en": "Please wait a moment.",
+          "ky": "Күтө туруңузчу."
+        },
+        "options": [
+          {
+            "text": "Макул, рахмат.",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Сүт канча турат?",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Подтвердите, что подождёте.",
+          "en": "Confirm that you will wait.",
+          "ky": "Күтүүгө макул болуңуз."
+        }
+      }
+    ]
+  },
+  {
+    "id": "hotel",
+    "location": "hotel",
+    "nodes": [
+      {
+        "id": "0",
+        "text": "Кош келиңиз! Бөлмө керекпи?",
+        "translation": {
+          "ru": "Добро пожаловать! Нужен номер?",
+          "en": "Welcome! Do you need a room?",
+          "ky": "Кош келиңиз! Бөлмө керекпи?"
+        },
+        "options": [
+          {
+            "text": "Ооба, бир бөлмө керек.",
+            "correct": true,
+            "next": "1"
+          },
+          {
+            "text": "Бул менин мектебим.",
+            "correct": false,
+            "next": "0"
+          }
+        ],
+        "explanation": {
+          "ru": "«Бир бөлмө керек» — «Нужна одна комната».",
+          "en": "“Бир бөлмө керек” means “I need one room”.",
+          "ky": "Бир бөлмө керек экенин айтыңыз."
+        }
+      },
+      {
+        "id": "1",
+        "text": "Канча күнгө?",
+        "translation": {
+          "ru": "На сколько дней?",
+          "en": "For how many days?",
+          "ky": "Канча күнгө?"
+        },
+        "options": [
+          {
+            "text": "Эки күнгө.",
+            "correct": true,
+            "next": "2"
+          },
+          {
+            "text": "Мен окуучумун.",
+            "correct": false,
+            "next": "1"
+          }
+        ],
+        "explanation": {
+          "ru": "«Эки күнгө» — «На два дня».",
+          "en": "“Эки күнгө” means “For two days”.",
+          "ky": "«Эки күнгө» деп убакытты айтыңыз."
+        }
+      },
+      {
+        "id": "2",
+        "text": "Мына ачкычыңыз. Жакшы эс алыңыз!",
+        "translation": {
+          "ru": "Вот ваш ключ. Хорошего отдыха!",
+          "en": "Here is your key. Enjoy your stay!",
+          "ky": "Мына ачкычыңыз. Жакшы эс алыңыз!"
+        },
+        "options": [
+          {
+            "text": "Рахмат!",
+            "correct": true,
+            "next": null
+          },
+          {
+            "text": "Түз жүрүңүз.",
+            "correct": false,
+            "next": "2"
+          }
+        ],
+        "explanation": {
+          "ru": "Поблагодарите администратора.",
+          "en": "Thank the receptionist.",
+          "ky": "Администраторго рахмат айтыңыз."
+        }
+      }
+    ]
+  }
+]

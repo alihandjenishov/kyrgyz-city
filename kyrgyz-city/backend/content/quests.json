@@ -1,0 +1,391 @@
+[
+  {
+    "id": "first-day",
+    "title": {
+      "ru": "Первый день в городе",
+      "en": "First day in the city",
+      "ky": "Шаардагы биринчи күн"
+    },
+    "steps": [
+      {
+        "event": "dialogue",
+        "target": "home",
+        "text": {
+          "ru": "Познакомьтесь с Айжан дома",
+          "en": "Meet Aizhan at home",
+          "ky": "Үйдөн Айжан менен таанышыңыз"
+        }
+      },
+      {
+        "event": "visit",
+        "target": "market",
+        "text": {
+          "ru": "Дойдите до базара",
+          "en": "Visit the bazaar",
+          "ky": "Базарга барыңыз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "market",
+        "text": {
+          "ru": "Купите воду у Айгүл",
+          "en": "Buy water from Aigul",
+          "ky": "Айгүлдөн суу сатып алыңыз"
+        }
+      },
+      {
+        "event": "visit",
+        "target": "home",
+        "text": {
+          "ru": "Вернитесь домой",
+          "en": "Return home",
+          "ky": "Үйгө кайтыңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "school-day",
+    "title": {
+      "ru": "Дорога в школу",
+      "en": "On the way to school",
+      "ky": "Мектепке жол"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "bus",
+        "text": {
+          "ru": "Найдите остановку",
+          "en": "Find the bus stop",
+          "ky": "Аялдаманы табыңыз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "bus",
+        "text": {
+          "ru": "Узнайте маршрут",
+          "en": "Ask about the route",
+          "ky": "Багытты сураңыз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "school",
+        "text": {
+          "ru": "Познакомьтесь с учителем",
+          "en": "Meet the teacher",
+          "ky": "Мугалим менен таанышыңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "tea-time",
+    "title": {
+      "ru": "Время чая",
+      "en": "Time for tea",
+      "ky": "Чай убактысы"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "cafe",
+        "text": {
+          "ru": "Найдите кафе",
+          "en": "Find the café",
+          "ky": "Кафени табыңыз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "food",
+        "text": {
+          "ru": "Изучите тему «Еда»",
+          "en": "Complete the food lesson",
+          "ky": "Тамак-аш сабагын бүтүрүңүз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "cafe",
+        "text": {
+          "ru": "Закажите чай и боорсок",
+          "en": "Order tea and boorsok",
+          "ky": "Чай менен боорсок заказ бериңиз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "healthy",
+    "title": {
+      "ru": "На приёме",
+      "en": "At the appointment",
+      "ky": "Дарыгердин кабыл алуусунда"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "clinic",
+        "text": {
+          "ru": "Войдите в больницу",
+          "en": "Enter the hospital",
+          "ky": "Ооруканага кириңиз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "health",
+        "text": {
+          "ru": "Выучите слова о здоровье",
+          "en": "Learn the health words",
+          "ky": "Ден соолук сөздөрүн үйрөнүңүз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "clinic",
+        "text": {
+          "ru": "Расскажите о симптоме",
+          "en": "Describe a symptom",
+          "ky": "Белгиңизди айтыңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "book-trip",
+    "title": {
+      "ru": "За новой книгой",
+      "en": "A new book",
+      "ky": "Жаңы китеп үчүн"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "library",
+        "text": {
+          "ru": "Посетите библиотеку",
+          "en": "Visit the library",
+          "ky": "Китепканага барыңыз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "library",
+        "text": {
+          "ru": "Попросите книгу",
+          "en": "Ask for a book",
+          "ky": "Китеп сураңыз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "city",
+        "text": {
+          "ru": "Повторите направления",
+          "en": "Practice city directions",
+          "ky": "Багыттарды кайталаңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "sunny-day",
+    "title": {
+      "ru": "Солнечный день",
+      "en": "A sunny day",
+      "ky": "Күн ачык"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "park",
+        "text": {
+          "ru": "Прогуляйтесь по парку",
+          "en": "Visit the park",
+          "ky": "Паркка барыңыз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "weather",
+        "text": {
+          "ru": "Изучите погоду",
+          "en": "Learn weather words",
+          "ky": "Аба ырайын үйрөнүңүз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "park",
+        "text": {
+          "ru": "Поговорите с Эрмеком",
+          "en": "Talk to Ermek",
+          "ky": "Эрмек менен сүйлөшүңүз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "budget",
+    "title": {
+      "ru": "Считаем сомы",
+      "en": "Counting som",
+      "ky": "Сом санайбыз"
+    },
+    "steps": [
+      {
+        "event": "lesson",
+        "target": "numbers",
+        "text": {
+          "ru": "Пройдите урок чисел",
+          "en": "Complete the numbers lesson",
+          "ky": "Сандар сабагын бүтүрүңүз"
+        }
+      },
+      {
+        "event": "visit",
+        "target": "bank",
+        "text": {
+          "ru": "Посетите банк",
+          "en": "Visit the bank",
+          "ky": "Банкка барыңыз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "bank",
+        "text": {
+          "ru": "Потренируйте обмен денег",
+          "en": "Practice exchanging money",
+          "ky": "Акча алмаштырууну машыгыңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "guest",
+    "title": {
+      "ru": "Добро пожаловать",
+      "en": "Welcome",
+      "ky": "Кош келиңиз"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "hotel",
+        "text": {
+          "ru": "Найдите гостиницу",
+          "en": "Find the hotel",
+          "ky": "Мейманкананы табыңыз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "travel",
+        "text": {
+          "ru": "Выучите слова путешественника",
+          "en": "Learn travel words",
+          "ky": "Саякат сөздөрүн үйрөнүңүз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "hotel",
+        "text": {
+          "ru": "Заселитесь в номер",
+          "en": "Check into a room",
+          "ky": "Бөлмөгө жайгашыңыз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "new-friend",
+    "title": {
+      "ru": "Новый друг",
+      "en": "A new friend",
+      "ky": "Жаңы дос"
+    },
+    "steps": [
+      {
+        "event": "lesson",
+        "target": "introduction",
+        "text": {
+          "ru": "Пройдите знакомство",
+          "en": "Practice introductions",
+          "ky": "Таанышууну үйрөнүңүз"
+        }
+      },
+      {
+        "event": "dialogue",
+        "target": "school",
+        "text": {
+          "ru": "Поговорите в школе",
+          "en": "Talk at the school",
+          "ky": "Мектепте сүйлөшүңүз"
+        }
+      },
+      {
+        "event": "visit",
+        "target": "park",
+        "text": {
+          "ru": "Встретьтесь в парке",
+          "en": "Meet at the park",
+          "ky": "Парктан жолугуңуз"
+        }
+      }
+    ],
+    "xp": 60
+  },
+  {
+    "id": "home-story",
+    "title": {
+      "ru": "Мой уютный дом",
+      "en": "Home sweet home",
+      "ky": "Жайлуу үйүм"
+    },
+    "steps": [
+      {
+        "event": "visit",
+        "target": "home",
+        "text": {
+          "ru": "Вернитесь домой",
+          "en": "Visit your home",
+          "ky": "Үйүңүзгө барыңыз"
+        }
+      },
+      {
+        "event": "word",
+        "target": "home-3",
+        "text": {
+          "ru": "Найдите «Терезе» — окно",
+          "en": "Find “Терезе” — the window",
+          "ky": "Терезени табыңыз"
+        }
+      },
+      {
+        "event": "lesson",
+        "target": "home",
+        "text": {
+          "ru": "Пройдите урок о доме",
+          "en": "Complete the home lesson",
+          "ky": "Үй тууралуу сабакты бүтүрүңүз"
+        }
+      }
+    ],
+    "xp": 60
+  }
+]
