@@ -67,7 +67,7 @@ async function answerDialogue(id: string) {
   for (const node of data.dialogues.find((d) => d.id === id)!.nodes) {
     const correct = node.options
       .find((o) => o.correct)!
-      .text.replace("{name}", "Аруу");
+      .text.replace("{name}", "");
     await userEvent.click(
       screen.getByRole("button", {
         name: new RegExp(correct.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")),

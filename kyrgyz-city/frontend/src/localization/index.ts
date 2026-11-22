@@ -10,8 +10,8 @@ const rows: Record<string, [string, string, string]> = {
   settings: ["Настройки", "Settings", "Жөндөөлөр"],
   about: ["О проекте", "About", "Долбоор тууралуу"],
   free: ["Бесплатно. Для каждого.", "Free. For everyone.", "Баарына акысыз."],
-  learn: ["Учи кыргызский.", "Learn Kyrgyz.", "Кыргызча үйрөн."],
-  live: ["Проживай истории.", "Live the stories.", "Окуяларга катыш."],
+  learn: ["Учи кыргызский,", "Learn Kyrgyz", "Кыргызча ойноп"],
+  live: ["играя.", "by playing.", "үйрөн."],
   hero: [
     "Твой первый разговор начинается здесь. Исследуй город, знакомься с людьми и открывай язык в повседневной жизни.",
     "Your first conversation starts here. Explore the city, meet its people and discover a language through everyday life.",
@@ -68,9 +68,9 @@ const rows: Record<string, [string, string, string]> = {
   learnWord: ["Запомнить слово", "Learn this word", "Сөздү үйрөнүү"],
   example: ["Пример", "Example", "Мисал"],
   noAudio: [
-    "Записи носителя пока нет.",
-    "A native-speaker recording is not available yet.",
-    "Эне тилинде сүйлөгөн адамдын жазуусу азырынча жок.",
+    "Записи пока нет.",
+    "A recording is not available yet.",
+    "Жазуусу азырынча жок.",
   ],
   noScore: [
     "Автоматическая оценка произношения пока недоступна. Сравнивай запись самостоятельно.",

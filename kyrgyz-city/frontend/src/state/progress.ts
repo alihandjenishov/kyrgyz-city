@@ -3,7 +3,7 @@ export const STORAGE_KEY = "kyrgyz-city-v1";
 export function initialProgress(): Progress {
   return {
     version: 1,
-    name: "Аруу",
+    name: "",
     color: "#cd7259",
     outfit: "jacket",
     started: false,

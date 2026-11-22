@@ -16,7 +16,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-1.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -37,7 +37,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-2.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -58,7 +58,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-3.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -79,7 +79,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-4.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -100,7 +100,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-5.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -121,7 +121,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-6.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -142,7 +142,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-7.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -163,7 +163,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-8.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -184,7 +184,7 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-9.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -205,10 +205,13 @@
       "ky": "Саламдашуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/greetings-10.mp3",
     "location": "home",
     "review_status": "draft"
   },
+
+
+
   {
     "id": "introduction-1",
     "ky": "Атыңыз ким?",
@@ -226,7 +229,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-1.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -247,7 +250,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-2.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -268,7 +271,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-3.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -289,7 +292,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-4.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -310,7 +313,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-5.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -331,28 +334,28 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-6.mp3",
     "location": "school",
     "review_status": "draft"
   },
   {
     "id": "introduction-7",
-    "ky": "Кайдансыз?",
+    "ky": "Каяктансыз?",
     "translations": {
       "ru": "Откуда вы?",
       "en": "Where are you from?",
-      "ky": "Кайдансыз?"
+      "ky": "Каяктансыз?"
     },
     "category": "introduction",
     "level": "A0",
-    "example": "Сиз кайдансыз?",
+    "example": "Сиз каяктансыз?",
     "context": {
       "ru": "Знакомство",
       "en": "Introductions",
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-7.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -360,7 +363,7 @@
     "id": "introduction-8",
     "ky": "Кыргызстан",
     "translations": {
-      "ru": "Кыргызстан",
+      "ru": "Из Кыргызстана",
       "en": "Kyrgyzstan",
       "ky": "Кыргызстан"
     },
@@ -373,7 +376,7 @@
       "ky": "Таанышуу"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/introduction-8.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -394,7 +397,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-1.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -415,7 +418,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-2.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -436,7 +439,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-3.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -457,7 +460,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-1.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -478,7 +481,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-5.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -499,7 +502,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-6.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -520,7 +523,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-7.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -541,7 +544,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-8.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -562,7 +565,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-9.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -583,7 +586,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-10.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -604,12 +607,159 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-11.mp3",
     "location": "market",
     "review_status": "draft"
   },
   {
     "id": "numbers-12",
+    "ky": "Отуз",
+    "translations": {
+      "ru": "Тридцать",
+      "en": "Thirty",
+      "ky": "Отуз"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Отуз сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-12.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-13",
+    "ky": "Кырк",
+    "translations": {
+      "ru": "Сорок",
+      "en": "Forty",
+      "ky": "Кырк"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Кырк сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-13.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-14",
+    "ky": "Элүү",
+    "translations": {
+      "ru": "Пятьдесят",
+      "en": "Fifty",
+      "ky": "Элүү"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Элүү сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-14.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-15",
+    "ky": "Алтымыш",
+    "translations": {
+      "ru": "Шестьдесят",
+      "en": "Sixty",
+      "ky": "Алтымыш"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Алтымыш сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-15.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-16",
+    "ky": "Жетимиш",
+    "translations": {
+      "ru": "Семьдесят",
+      "en": "Seventy",
+      "ky": "Жетимиш"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Жетимиш сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-16.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-17",
+    "ky": "Сексен",
+    "translations": {
+      "ru": "Восемьдесят",
+      "en": "Eighty",
+      "ky": "Сексен"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Сексен сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-17.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-18",
+    "ky": "Токсон",
+    "translations": {
+      "ru": "Девяносто",
+      "en": "Ninety",
+      "ky": "Токсон"
+    },
+    "category": "numbers",
+    "level": "A0",
+    "example": "Токсон сом.",
+    "context": {
+      "ru": "Числа",
+      "en": "Numbers",
+      "ky": "Сандар"
+    },
+    "grammar": null,
+    "audio": "static/audio/numbers-18.mp3",
+    "location": "market",
+    "review_status": "draft"
+  },
+  {
+    "id": "numbers-19",
     "ky": "Жүз",
     "translations": {
       "ru": "Сто",
@@ -625,7 +775,7 @@
       "ky": "Сандар"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/numbers-19.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -646,7 +796,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-1.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -667,7 +817,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-2.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -688,7 +838,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-3.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -709,7 +859,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-4.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -730,7 +880,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-5.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -751,7 +901,7 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-6.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -772,12 +922,54 @@
       "ky": "Түстөр"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/colors-7.mp3",
     "location": "park",
     "review_status": "draft"
   },
   {
     "id": "colors-8",
+    "ky": "Боз",
+    "translations": {
+      "ru": "Серый",
+      "en": "Gray",
+      "ky": "Боз"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Боз унаа.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": "static/audio/colors-8.mp3",
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-9",
+    "ky": "Кызгылт сары",
+    "translations": {
+      "ru": "Оранжевый",
+      "en": "Orange",
+      "ky": "Кызгылт сары"
+    },
+    "category": "colors",
+    "level": "A0",
+    "example": "Кызгылт сары сабиз.",
+    "context": {
+      "ru": "Цвета",
+      "en": "Colors",
+      "ky": "Түстөр"
+    },
+    "grammar": null,
+    "audio": "static/audio/colors-9.mp3",
+    "location": "park",
+    "review_status": "draft"
+  },
+  {
+    "id": "colors-10",
     "ky": "Түс",
     "translations": {
       "ru": "Цвет",
@@ -792,7 +984,7 @@
       "en": "Colors",
       "ky": "Түстөр"
     },
-    "grammar": null,
+    "grammar": "static/audio/colors-10.mp3",
     "audio": null,
     "location": "park",
     "review_status": "draft"
