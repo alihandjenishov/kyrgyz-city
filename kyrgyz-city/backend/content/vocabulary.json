@@ -1006,7 +1006,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-1.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1027,7 +1027,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-2.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1048,7 +1048,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-3.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1069,7 +1069,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-4.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1090,7 +1090,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-5.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1111,7 +1111,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-6.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1132,7 +1132,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-7.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1153,7 +1153,7 @@
       "ky": "Үй-бүлө"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/family-8.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1174,7 +1174,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-1.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1195,7 +1195,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-2.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1216,7 +1216,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-3.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1237,7 +1237,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-4.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1258,7 +1258,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-5.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1279,7 +1279,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-6.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1300,7 +1300,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-7.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1321,7 +1321,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-8.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1342,7 +1342,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-9.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1363,7 +1363,7 @@
       "ky": "Менин үйүм"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/home-10.mp3",
     "location": "home",
     "review_status": "draft"
   },
@@ -1384,7 +1384,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-1.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1405,7 +1405,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-2.mp3",,
     "location": "school",
     "review_status": "draft"
   },
@@ -1426,7 +1426,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-3.mp3",,
     "location": "school",
     "review_status": "draft"
   },
@@ -1447,7 +1447,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-4.mp3",,
     "location": "school",
     "review_status": "draft"
   },
@@ -1468,7 +1468,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-5.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1489,7 +1489,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-6.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1510,7 +1510,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-7.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1531,7 +1531,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-8.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1552,7 +1552,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-9.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1573,7 +1573,7 @@
       "ky": "Мектепте"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/school-10.mp3",
     "location": "school",
     "review_status": "draft"
   },
@@ -1594,7 +1594,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-1.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1615,7 +1615,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-2.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1636,7 +1636,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-3.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1657,7 +1657,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-4.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1678,7 +1678,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-5.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1699,7 +1699,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-6.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1720,7 +1720,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-7.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1741,7 +1741,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-8.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1762,7 +1762,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-9.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -1783,7 +1783,7 @@
       "ky": "Базарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/shopping-10.mp3",
     "location": "market",
     "review_status": "draft"
   },
@@ -2014,7 +2014,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-1.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2035,7 +2035,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-2.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2056,7 +2056,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-3.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2077,7 +2077,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-4.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2098,7 +2098,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-5.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2119,7 +2119,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-6.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2140,7 +2140,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-7.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2161,7 +2161,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-8.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2182,7 +2182,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-9.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2203,7 +2203,7 @@
       "ky": "Шаарда"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/city-10.mp3",
     "location": "library",
     "review_status": "draft"
   },
@@ -2224,7 +2224,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-1.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2245,7 +2245,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-2.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2266,7 +2266,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-3.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2287,7 +2287,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-4.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2308,7 +2308,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-5.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2329,7 +2329,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-6.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2350,7 +2350,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-7.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2371,7 +2371,7 @@
       "ky": "Унаа"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/transport-8.mp3",
     "location": "bus",
     "review_status": "draft"
   },
@@ -2392,7 +2392,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-1.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2413,7 +2413,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-2.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2434,7 +2434,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-3.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2455,7 +2455,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-4.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2476,7 +2476,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-5.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2497,7 +2497,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-6.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2518,7 +2518,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-7.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2539,7 +2539,7 @@
       "ky": "Дарыгерде"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/health-8.mp3",
     "location": "clinic",
     "review_status": "draft"
   },
@@ -2560,7 +2560,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-1.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2581,7 +2581,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-2.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2602,7 +2602,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-3.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2623,7 +2623,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-4.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2644,7 +2644,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-5.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2665,7 +2665,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-6.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2686,7 +2686,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-7.mp3",
     "location": "park",
     "review_status": "draft"
   },
@@ -2707,7 +2707,7 @@
       "ky": "Аба ырайы"
     },
     "grammar": null,
-    "audio": null,
+    "audio": "static/audio/weather-8.mp3",
     "location": "park",
     "review_status": "draft"
   },
