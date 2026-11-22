@@ -93,7 +93,14 @@
       "numbers-9",
       "numbers-10",
       "numbers-11",
-      "numbers-12"
+      "numbers-12",
+      "numbers-13",
+      "numbers-14",
+      "numbers-15",
+      "numbers-16",
+      "numbers-17",
+      "numbers-18",
+      "numbers-19",
     ],
     "minutes": 5,
     "note": {
@@ -129,7 +136,9 @@
       "colors-5",
       "colors-6",
       "colors-7",
-      "colors-8"
+      "colors-8",
+      "colors-9",
+      "colors-10"
     ],
     "minutes": 5,
     "note": {
