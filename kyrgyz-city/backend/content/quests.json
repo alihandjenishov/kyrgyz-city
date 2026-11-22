@@ -29,9 +29,9 @@
         "event": "dialogue",
         "target": "market",
         "text": {
-          "ru": "Купите воду у Айгүл",
-          "en": "Buy water from Aigul",
-          "ky": "Айгүлдөн суу сатып алыңыз"
+          "ru": "Купите воду у Жакшылыка",
+          "en": "Buy water from Zhakshylyk",
+          "ky": "Жакшылыктан суу сатып алыңыз"
         }
       },
       {
@@ -228,9 +228,9 @@
         "event": "dialogue",
         "target": "park",
         "text": {
-          "ru": "Поговорите с Эрмеком",
-          "en": "Talk to Ermek",
-          "ky": "Эрмек менен сүйлөшүңүз"
+          "ru": "Поговорите с Миртемиром",
+          "en": "Talk to Mirtemir",
+          "ky": "Миртемир менен сүйлөшүңүз"
         }
       }
     ],
